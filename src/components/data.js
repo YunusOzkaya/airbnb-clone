@@ -22,7 +22,7 @@ export default [
             rating: 5.0,
             reviewCount: 30
         },
-        location: "Turkey",
+        location: "Online",
         openSpots: 27,
     },
     {
